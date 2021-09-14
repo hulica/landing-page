@@ -11,7 +11,7 @@ body {
     justify-content: space-between;
     align-items: center;
     background-color: #1f2937;
-    color: white;
+    color: #e5e7eb;
     padding: 5px 0px
     
 }
@@ -29,6 +29,12 @@ body {
     list-style: none;
     gap: 30px;
     margin-right: 50px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
 }
 
 .header-links,
